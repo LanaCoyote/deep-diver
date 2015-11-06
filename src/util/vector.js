@@ -97,3 +97,7 @@ Vector.prototype.midpoint = function() {
 // Vector.prototype.angle
 // returns the angle of a vector
 // TODO: write this function
+
+
+
+module.exports = Vector;
